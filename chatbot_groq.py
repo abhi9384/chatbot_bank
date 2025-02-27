@@ -1,8 +1,3 @@
-# https://github.com/leoneversberg/llm-chatbot-rag/blob/main/src/rag_util.py
-# https://github.com/AlaGrine/RAG_chatabot_with_Langchain/blob/main/RAG_app.py
-# https://medium.com/thedeephub/rag-chatbot-powered-by-langchain-openai-google-generative-ai-and-hugging-face-apis-6a9b9d7d59db
-# https://github.com/mycloudtutorials/generative-ai-demos/blob/master/bedrock-chat-with-pdf/User/app.py
-
 import openai
 import streamlit as st
 from groq import Groq
